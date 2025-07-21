@@ -29,11 +29,11 @@ class Commands(Cog, description="Commands for ADB"):
     async def info(self, ctx: Context) -> None:
         embed = discord.Embed(
             title="ADB Info",
-            description="This bot is meant to be a simple way to get the Active Developer Badge on Discord for those who either don't have the time or don't know how to do it themselves."
+            description="This bot is meant to be a simple way to get the **Active Developer Badge** on Discord for those who either don't have the time or don't know how to do it themselves."
         )
-        embed.add_field(name="Developer", value="[playfairs](https://github.com/playfairs)", inline=False)
-        embed.add_field(name="Source Code", value="https://github.com/playfairs/adb", inline=False)
-        embed.add_field(name="Support Server", value="https://discord.gg/vortexbot", inline=False)
+        embed.add_field(name="Developer", value="> [playfairs](https://github.com/playfairs)", inline=False)
+        embed.add_field(name="Source Code", value="> https://github.com/playfairs/adb", inline=False)
+        embed.add_field(name="Support Server", value="> https://discord.gg/vortexbot", inline=False)
         embed.set_thumbnail(url="https://media.playfairs.cc/adb.png")
         await ctx.send(embed=embed)
 
