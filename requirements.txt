@@ -1,0 +1,5 @@
+asyncio==3.4.3
+discord.py==2.5.2
+discord_ios
+jishaku==2.6.0
+python-dotenv==1.1.0
