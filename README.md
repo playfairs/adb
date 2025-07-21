@@ -1,4 +1,4 @@
-# ADB (Active Developer Badge)
+# ADB (Active Developer Bot)
 
 This bot is meant to be a simple way to get the Active Developer Badge on Discord for those who either don't have the time or don't know how to do it themselves.
 
@@ -26,4 +26,4 @@ It's recommended to run the command every month, or you'll end up losing the bad
 
 Other than that, there's nothing else to do.
 
-If you have any questions, feel free to open an issue, or contact me on discord @ [@playfairs](https://discord.com/users/785042666475225109)# adb
+If you have any questions, feel free to open an issue, or contact me on discord [@playfairs](https://discord.com/users/785042666475225109)
