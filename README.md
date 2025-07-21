@@ -18,6 +18,12 @@ python -m pip install -r requirements.txt
 python main.py
 ```
 
+Create a `.env` file in the root directory of the project, and add the following:
+
+```
+TOKEN=your_token_here
+```
+
 ## Usage
 
 Once you start the bot, it should sync, and you should be able to run `/adb` to make the bot count as active, the embed the bot sends will tell you when you will be able to get the badge.
